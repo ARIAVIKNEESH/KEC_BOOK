@@ -6,17 +6,17 @@ export function Header() {
       <div className="navbar-container">
         <h3 className="logo">
           <a
-            href="https://bharati-portfolio.netlify.app"
+            href="https://kecbook404.netlify.app/"
             className="link"
             target="_blank"
           >
-            Bharati
+            Books
           </a>
         </h3>
         <ul className="nav-links">
           <li>
             <a
-              href="https://github.com/bharati-21"
+              href="https://github.com/ARIAVIKNEESH/KEC_BOOK"
               className="link"
               target="_blank"
             >
